@@ -4,11 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22d3b2dc-7c0e-4a25-9e0f-54ed95746f20" name="Changes" comment="Rep">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="22d3b2dc-7c0e-4a25-9e0f-54ed95746f20" name="Changes" comment="Parchement Mappings">
+      <change afterPath="$PROJECT_DIR$/run/logs/2022-09-02-8.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/artika/amnh/items/ModItems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/amnh/lang/en_us.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/amnh/models/item/lockpick.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/amnh/textures/item/lockpick.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2022-09-02-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2022-09-02-1.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2022-09-02-2.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2022-09-02-2.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2022-09-02-3.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2022-09-02-3.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2022-09-02-4.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2022-09-02-4.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2022-09-02-5.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2022-09-02-5.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2022-09-02-6.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2022-09-02-6.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2022-09-02-7.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2022-09-02-7.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-1.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug-2.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-2.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug-3.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-3.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug-4.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-4.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug-5.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-5.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/latest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/artika/amnh/AMNH.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/artika/amnh/AMNH.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +68,13 @@
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -62,20 +86,28 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2EDFFjT1OGPJ7qQklxhaBSPTXa2" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/assets/amnh/textures/item" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Artika\Documents\Minecraft\Mod\At my neighbor's house\src\main\resources\assets\amnh\textures\item" />
+      <recent name="C:\Users\Artika\Documents\Minecraft\Mod\At my neighbor's house\src\main\resources\assets\amnh\textures" />
+    </key>
   </component>
   <component name="RunManager" selected="Gradle.At my neighbor's house [runClient]">
     <configuration name="At my neighbor's house [runClient]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
@@ -117,6 +149,14 @@
       <option name="presentableId" value="Default" />
       <updated>1662122150703</updated>
     </task>
+    <task id="LOCAL-00001" summary="Parchement Mappings">
+      <created>1662130994186</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662130994186</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -135,7 +175,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Rep" />
-    <option name="LAST_COMMIT_MESSAGE" value="Rep" />
+    <MESSAGE value="Parchement Mappings" />
+    <option name="LAST_COMMIT_MESSAGE" value="Parchement Mappings" />
   </component>
 </project>
