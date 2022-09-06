@@ -93,8 +93,8 @@ dependencies {
 jar {
     manifest {
         attributes([
-                "Specification-Title"     : "amnh",
-                "Specification-Vendor"    : "amnhsareus",
+                "Specification-Title"     : "atmyneighborshouse",
+                "Specification-Vendor"    : "artika",
                 "Specification-Version"   : "1",
                 "Implementation-Title"    : project.name,
                 "Implementation-Version"  : project.jar.archiveVersion,

@@ -1,6 +1,7 @@
 {
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:lush_caves": "2022-09-06 16:53:16 +0200",
       "minecraft:jungle": "2022-09-02 17:57:16 +0200"
     },
     "done": false
